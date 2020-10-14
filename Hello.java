@@ -12,3 +12,8 @@ class Github
 {
   sop("Welcom github");
 }
+
+inerface creta
+{
+  sop("i love creata");
+ }
